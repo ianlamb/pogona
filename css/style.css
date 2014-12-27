@@ -1,0 +1,30 @@
+html, body {
+    min-height: 100%;
+}
+
+header a {
+    color: #333;
+    transition: color .5s;
+    -webkit-transition: color .5s;
+}
+header a:hover {
+    color: #0BABDA;
+    background: none;
+    transition: color .3s;
+    -webkit-transition: color .3s;
+}
+.navbar-nav > li > a:hover {
+    background: none;
+}
+.navbar {
+    margin: 0;
+}
+header {
+    background: #fff;
+}
+
+#content {
+    height: 600px;
+    background: rgb(53, 153, 166);
+    color: #fff;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "pogona",
+  "version": "0.0.0",
+  "authors": [
+    "Ian Lamb <ianlamb32@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
